@@ -26,29 +26,35 @@ Based on the number of votes, North Indian, Mughlai, and Chinese cuisines emerge
 Italian, Hawaiian, Seafood, Tea, Sandwich, Continental, and Indian cuisines received the highest average ratings.
 9. Data Visualization with Tableau  Highlights:
 Comparing Cuisines with table booking and price range - 
+![image](https://github.com/user-attachments/assets/a29b263c-7819-4ddf-ba8b-9a9bdfddbfe4)
 
-Top 10 Rated restaurants bar chart shows that Domino’s Pizza is the most positively rated restaurant followed by other restaurants like Cafe Coffee Day,Subway,etc .  
+Top 10 Rated restaurants bar chart shows that Domino’s Pizza is the most positively rated restaurant followed by other restaurants like Cafe Coffee Day,Subway,etc . Fast food chains like Domino’s Pizza and Subway are highly rated globally, while other niche or region-specific chains like Barbeque Nation have moderate ratings, reflecting varying customer preferences.All these brands have global recognition, and their aggregate ratings suggest they maintain a consistent level of customer satisfaction across different regions.
+![image](https://github.com/user-attachments/assets/b2dc2ba8-f2a7-40b6-a9e5-359e1f8a7458)
 
-Fast food chains like Domino’s Pizza and Subway are highly rated globally, while other niche or region-specific chains like Barbeque Nation have moderate ratings, reflecting varying customer preferences.All these brands have global recognition, and their aggregate ratings suggest they maintain a consistent level of customer satisfaction across different regions.
 Votes-Online delivery relationship : Restaurants that offer online delivery have a higher average number of votes (around 200) compared to those that do not (around 140). This indicates that online delivery services tend to attract more votes per restaurant on average.Increased Engagement for Online Delivery
+![image](https://github.com/user-attachments/assets/d0e692d3-ca7c-4d52-804e-9f6cac7cbaef)
+
 
 Top 5 Cuisines based on Aggregate rating :
 North Indian cuisine and its combinations with other cuisines (Chinese and Mughlai) dominate the top ratings, indicating its widespread popularity.
 Fast Food and Chinese cuisine also hold significant ratings but are comparatively lower than North Indian options.
+![image](https://github.com/user-attachments/assets/dff7aa24-0eb7-477e-9b51-c82f37fbc7c7)
+
 
 
 
 Average rating for Restaurants in each city :This chart reflects customer satisfaction and restaurant performance across different cities, with Inner City leading in restaurant quality, while some cities face challenges in achieving higher ratings.Cities like Inner City and several cities in the Philippines (Quezon, Makati, Pasig, etc.) have notably higher restaurant ratings, suggesting that customers in these regions are more satisfied with their dining experiences.
 Cities toward the lower end, such as Istanbul, Abu Dhabi, and Sandton, may have restaurants with lower customer satisfaction, based on the ratings.
-
-
-
-
+![image](https://github.com/user-attachments/assets/b245a6a3-2cc3-4735-8db3-a0e496812003)
 
  "Most Expensive Cuisines" bubble chart uses circles to represent different cuisines, where the size of each bubble correlates with the average cost for two people at restaurants offering that cuisine.
 The chart implies that Italian, Continental, Sushi, Japanese, and Asian, Indonesian, Western are the most expensive cuisines when considering the average cost for two people, while cuisines like North Indian and French, Western are moderately expensive in comparison.
 This suggests that diners opting for Italian or Japanese cuisine should expect to pay significantly more than those choosing North Indian or Chinese fusion.
 
+![image](https://github.com/user-attachments/assets/0b7697fa-87b3-4e7b-be3a-7c1255f91f8b)
+
+![image](https://github.com/user-attachments/assets/32354fab-b356-4edc-b559-243803496a93)
 
 Availability of Online delivery - Rating relationship
+![image](https://github.com/user-attachments/assets/ed72390d-458d-4603-ad0c-7ddffb0e26a7)
 
